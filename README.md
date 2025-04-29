@@ -1,0 +1,2 @@
+# schizopic
+AGI Idea Collection
